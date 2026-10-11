@@ -59,6 +59,10 @@ Open an issue with:
 - A proposed schema, definition, or translation rule
 - A counterexample, or a simpler architecture that solves the same problem
 
+## Community
+
+[r/polymodality](https://www.reddit.com/r/polymodality/) — discussion, questions, and show-and-tell.
+
 ## License
 
 Apache License-2.0. See [LICENSE](LICENSE).
