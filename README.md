@@ -2,6 +2,14 @@
 
 **Give agents identity. Preserve meaning across contexts.**
 
+## The bigger idea
+
+A person is a customer, a colleague, an account owner, a community member — all at once. A document is evidence, an obligation, a sensitive resource. Every perspective reveals something real, and every perspective is incomplete.
+
+Polymodality is the discipline of holding those dimensions separately and fusing them on purpose: make each perspective explicit, name the translations between them, and never collapse differences that matter.
+
+It's language-agnostic and environment-agnostic — a way of modeling the world before it's a way of building software.
+
 ## The problem
 
 Three agents work one customer request. Sales says "qualified." Finance says "approved." Security says "authorized."
@@ -33,8 +41,8 @@ Includes agent spec templates, a handoff protocol, a worked customer-order examp
 
 ## Repositories
 
-- **[agentic-polymodality](https://github.com/polymodality/agentic-polymodality)** — the manifesto, the design pack, the worked examples. Start here.
-- **polymodality** (this repo) — the framework's home and front door.
+- **polymodality** (this repo) — the general vision and framework.
+- **[agentic-polymodality](https://github.com/polymodality/agentic-polymodality)** — the flagship application: the manifesto, the design pack, the worked examples.
 
 ## Status
 
