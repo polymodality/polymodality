@@ -1,6 +1,6 @@
 # Polymodality
 
-**Give agents identity. Preserve meaning across contexts.**
+**One entity, many dimensions — fuse them without collapsing them.**
 
 ## The bigger idea
 
